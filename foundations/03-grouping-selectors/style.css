@@ -1,0 +1,14 @@
+.click {
+	background-color: #000;
+	color: #fff;
+}
+
+.click-second {
+	background-color: #ffff00;
+}
+
+.click,
+.click-second {
+	font-family: Helvetica, "Times New Roman", sans-serif;
+	font-size: 28px;
+}
